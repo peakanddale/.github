@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## This is `Peak & Dale - Kenya`
+## This is `Peak & Dale` - Kenya
 
 <!--
 
