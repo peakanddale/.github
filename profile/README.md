@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## This is `Peak & Dale` - Kenya
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -12,4 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+# Peak & Dale - Kenya
+
 Hold on there for a second ... Something great is coming soon.
